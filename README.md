@@ -1,0 +1,1 @@
+nothing really impressive here, just want to create a GPT? possibly or maybe Claude wrapper to create some recommended reading lists, then put it in a visually appealing form. similar to 4chan lit charts but they got taken down lol, so this as my attempt are replacing it?
